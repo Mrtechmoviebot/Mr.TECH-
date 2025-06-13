@@ -156,7 +156,12 @@ I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇ Fᴏʀ Yᴏᴜ Jᴜsᴛ Aᴅᴅ Mᴇ Iɴ
 ©{message.chat.title}</b>
 """
 
-    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}"""
+    CUSTOM_FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
+
+╔═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╗ 
+➲ <a href=https://t.me/MrTechMovies_Group> @MR_TECH_MOVIES </a>
+➲ <a href=https://t.me/OTT_RELEASE_MOVIE> @OTT_RELEASE_MOVIE </a>
+╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝</b>"""
 
     RESTART_TXT = """
 <b>Bᴏᴛ Rᴇsᴛᴀʀᴛᴇᴅ !
